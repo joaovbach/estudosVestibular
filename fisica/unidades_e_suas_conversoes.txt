@@ -1,0 +1,65 @@
+grandezas fisicas- medidas e unidades
+
+     quantidade       unidade   a juncao de uma quantidade+unidade = grandeza
+
+         10            litros
+         10            metros
+
+
+     PADRONIZACAO SI = SISTEMA INTERNCIONAL DE UNIDADES
+            
+                  m.k.s
+            metro kg segundos
+
+
+     METRO-
+                    ->             ->           ->       ->           ->           ->
+                  x10            x10          x10      x10          x10           x10
+        kilometro    equitometro    decametro    metro    decimetro    centimetro    mimlimetro
+                  /10            /10          /10      /10          /10           /10
+                     <-        <-         <-          <-         <-            <-
+    
+        
+        
+            m2(metro quadrado) = area = metro x metro    esse 2 do quadrado vai em todas as unidades de metro(km2, em2, dm2, m2...)
+                quando a conta envolve unidades de area, ou seja, unidades de medida ao quadrado, a conversao que antes era x10 e /10 é feita por x100 e /100
+    
+     
+     VOLUME- 
+        AREA DA BASE(LADO X LADO) X ALTURA
+
+
+
+           /----------------
+          / |            /  |
+         |  |           /   |           comprimento 5m                      10m2
+         |  ------------|----           largura 2m            volume =  (5m x 2m) x 3m = 30m3       se tem metros cubicos significa que foram envolvidos 3 unidades de comprimento que é igual a volume
+         --/-------------   /           altura 3m                         base                      para converter as medias onde era x10 e /10 agora com metros cubicos fica como x1000 e /1000
+        | /         3m  |  / 2m         
+        |/              | /
+         -----------------
+                5m    
+
+                                        litro = dm3
+                                        2l = 2dm3
+
+
+     QUESTOES - converta 20cm2 para km2
+        
+            20/100 = 0,2dm2   ->  0,2/100 = 0,002m2   ->  0,002/100 = 0,00002dm2  -> 0,00002/100 = 0,0000002em2   -> 0,0000002/100 = 0,000000002km2 //
+
+            multiplica por 100 5x logo podemos fazer 10^2 . 10^2 . 10^2 . 10^2 . 10^2 = mantem a base e soma os expoentes = 10^2, com isso poderiamos dividir o 20 por 10^2 = 20 . 10^-10 //
+
+
+
+            CONVERTER 2L PARA 2DM3
+                
+                2dm3 = ml3  para isso temos que multiplicar por 1000 2x, logo fica 2000000mm3       poderiamos usar a tecnica usada acima  2 . 10^3 . 10^3 = 2.10^6mm3     aqui o 2 ficou x pois esta indo
+                                                                                                                                                                           para a esquerda da conversao,
+                                                                                                                                                                           no exemplo acima o 20 foi dividido
+                                                                                                                                                                           pois a conversao estava sendo feita
+                                                                                                                                                                           da direita para a esquerda
+                                                                                    
+    
+                
+            
